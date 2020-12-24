@@ -10,5 +10,5 @@ The website using the following .csv files(https://www.kaggle.com/nathanlauga/nb
 2. To run the website you need to type 'npm install' in a separate terminal while in the 'frontend' folder. Then you type 'npm run' in order to start the web application in your browser. The website should be hosted on port 3000.
 
 ### youtube link
-coming soon
+https://youtu.be/UJ5P6zDeZcs
 
