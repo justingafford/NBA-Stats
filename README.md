@@ -1,4 +1,4 @@
-#NBA Stats Startup guide#
+# NBA Stats Startup guide
 
 ### Description
 A website using a react frontend and flask backend server in order to display NBA statistics and perform queries.
